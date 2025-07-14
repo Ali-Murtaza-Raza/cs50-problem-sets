@@ -5,7 +5,7 @@ This repository contains my solutions to selected problem sets from [CS50x: Intr
 ## 📁 Folder Structure
 
 Each folder corresponds to a week in the course and includes problem set solutions, organized by topic.
-
+```
 cs50-problem-sets/
 ├── week1/
 │ ├── mario.c
@@ -23,7 +23,7 @@ cs50-problem-sets/
 ├── week4/
 │ ├── filter.c
 │ └── recover.c
-
+```
 ## 🧠 Topics Covered
 
 - **Week 1:** C syntax, loops, conditionals, math
