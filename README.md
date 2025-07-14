@@ -13,7 +13,6 @@ cs50-problem-sets/
 │
 ├── week2/
 │ ├── readability.c
-│ ├── caesar.c
 │ └── substitution.c
 │
 ├── week3/
