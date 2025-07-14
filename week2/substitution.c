@@ -78,7 +78,6 @@ bool ValidateKey(string key)
 // returns ciphertext
 string Encrypt(string plaintext, string key)
 {
-
     for (int i = 0, len = strlen(plaintext); i < len; i++)
     {
         char thisChar = plaintext[i]; // extracting a character
